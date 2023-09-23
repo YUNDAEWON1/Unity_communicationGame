@@ -350,6 +350,7 @@
 "Assets/02. Scripts/CameraControl.cs"
 "Assets/02. Scripts/DateCheck.cs"
 "Assets/02. Scripts/Janken.cs"
+"Assets/02. Scripts/MsgDisplay.cs"
 "Assets/02. Scripts/Touch.cs"
 "Assets/03. Assets/UnityChan/Scripts/AutoBlink.cs"
 "Assets/03. Assets/UnityChan/Scripts/CameraController.cs"
